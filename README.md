@@ -8,6 +8,5 @@ To the best of our abilities we will try to keep this list updated. However feel
 
 You can subscribe to the latest versions of the data using BigQuery Analytics Hub.
 
-For US Region click [here](https://console.cloud.google.com/bigquery/analytics-hub/discovery/projects/dreamdata/locations/us/dataExchanges/dreamdata_us_18322e26115/listings/dreamdata_public_dataset_18322e30eb8).
-
-For EU Region click [here](https://console.cloud.google.com/bigquery/analytics-hub/discovery/projects/dreamdata/locations/eu/dataExchanges/dreamdata_18322d6e3e9/listings/dreamdata_public_data_18322d85b61).
+[US Region click here](https://console.cloud.google.com/bigquery/analytics-hub/discovery/projects/dreamdata/locations/us/dataExchanges/dreamdata_us_18322e26115/listings/dreamdata_public_dataset_18322e30eb8).
+[EU Region click here](https://console.cloud.google.com/bigquery/analytics-hub/discovery/projects/dreamdata/locations/eu/dataExchanges/dreamdata_18322d6e3e9/listings/dreamdata_public_data_18322d85b61).
